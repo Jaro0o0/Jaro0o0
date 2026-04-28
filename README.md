@@ -27,4 +27,4 @@ When I'm not coding, I'm fascinated by where science is going and paly video gam
 
 
 Let's connect!
-[![](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/twoj-profil)
+[![](https://cdn-icons-png.flaticon.com/96/3536/3536505.png)](https://www.linkedin.com/in/twoj-profil)
