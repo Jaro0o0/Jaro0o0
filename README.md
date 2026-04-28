@@ -25,6 +25,9 @@ My main tech stack is next.js, javascript, django, python, tailwind and material
 When I'm not coding, I'm fascinated by where science is going, hit the gym, and play video games
 
 
+
+
+
 **Let's connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
