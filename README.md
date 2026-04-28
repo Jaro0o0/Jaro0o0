@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="30" />
 
 <!--
 **Jaro0o0/Jaro0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm software Jaro0o0, a engineer based in Poland
+I'm  Jaro0o0, a software engineer based in Poland
 
 I build  user-friendly web applications. 
 I care about clean code and shipping things that actually work for people using them.
 
-My main tech stack is next.js, javascript, django, python, tailwind and Material UI, Also I know Framer Motion, C and Node.js
-
+My main tech stack is next.js, javascript, django, python, tailwind and material ui.
+Also I know framer motion, C and node.js
 
 
 When I'm not coding, I'm fascinated by where science is going and paly video games
 
 
 Let's connect!
-[![](https://cdn-icons-png.flaticon.com/96/3536/3536505.png)](https://www.linkedin.com/in/twoj-profil)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
