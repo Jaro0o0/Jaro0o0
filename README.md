@@ -23,7 +23,7 @@ My main tech stack is next.js, javascript, django, python, tailwind and material
 Also I know framer motion, C and node.js
 
 
-When I'm not coding, I'm fascinated by where science is going and paly video games
+When I'm not coding, I'm fascinated by where science is going, hit the gym, and play video games
 
 
 Let's connect!
