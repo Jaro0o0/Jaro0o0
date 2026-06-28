@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 I'm  Jaro0o0, a software engineer based in Poland
 
-I build user-friendly web applications with clean, maintainable code. I integrate AI tools into my development workflow to ship better products, faster.
+I build user-friendly web applications with clean, maintainable code.
 
-My main tech stack is react.js, javascript, django, python, tailwind and material ui. Beyond my core stack, I'm comfortable with framer motion, node.js, next.js, and postgresql  
+My main tech stack is next.js, react.js, javascript/typescript, framer motion, tailwind and material ui. Beyond my core stack, I'm comfortable with python 
 
 
 
