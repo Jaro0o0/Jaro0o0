@@ -18,7 +18,9 @@ I'm  Jaro0o0, a software engineer based in Poland
 
 I build user-friendly web applications with clean, maintainable code.
 
-My main tech stack is next.js, react.js, javascript/typescript, framer motion, tailwind and material ui. Beyond my core stack, I'm comfortable with python and react redux
+My main tech stack is next.js, react.js, javascript/typescript, framer motion, tailwind, material ui and react redux. Beyond my core stack, I'm comfortable with python, docker and node.js
+
+For testing, I use Jest, and for code quality, I use ESLint.
 
 
 
