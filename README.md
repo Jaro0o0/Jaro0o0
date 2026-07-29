@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm  Jaro0o0, a software engineer based in Poland
+I'm  Jaro0o0, a software engineer based in Poland  🇵🇱
 
 I build user-friendly web applications with clean, maintainable code.
 
-My main tech stack is next.js, react.js, javascript/typescript, framer motion, tailwind, material ui and react redux. Beyond my core stack, I'm comfortable with python, docker and node.js
+My main tech stack is Next.js, React.js, JavaScript/TypeScript, Framer Motion, Tailwind CSS, Material UI and React Redux. Beyond my core stack, I'm comfortable with Node.js (Express.js), Docker, C#/.NET, SQL (PostgreSQL) and Python.
 
 For testing, I use Jest, and for code quality, I use ESLint.
 
+Currently pursuing a weekend-based Mechatronics degree 🎓 
 
 
 When I'm not coding, I'm fascinated by where science is going, hit the gym, and play video games
